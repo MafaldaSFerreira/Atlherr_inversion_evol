@@ -1,0 +1,16 @@
+F1
+F3
+F4
+F5
+F6
+Fehmarn3_Fehmarn_Baltic_Autumn
+Fehmarn44_Fehmarn_Baltic_Autumn
+Fehmarn6_Fehmarn_Baltic_Autumn
+Gavle100_Gavle_Baltic_Autumn
+Gavle54_Gavle_Baltic_Autumn
+Gavle98_Gavle_Baltic_Autumn
+BF16_HastKar_Baltic_Spring
+BF19_HastKar_Baltic_Spring
+BF21_HastKar_Baltic_Spring
+BM14_HastKar_Baltic_Spring
+BM16_HastKar_Baltic_Spring

@@ -1,0 +1,32 @@
+# European sprat assembly
+
+### Mapping Sprat assembly to Atlantic herring assembly
+
+Downloaded the most recent European sprat genome from the ENA website https://www.ebi.ac.uk/ena/browser/view/SAMEA111562173
+
+
+Using Satsuma:
+
+~~~bash
+#! /bin/bash -l 
+
+module load bioinfo-tools satsuma2
+
+WD="/proj/snic2020-2-19/private/herring/users/mafalda/Inversion_project/Mutational_load/dnds_calculation_24-02-20"
+INPUT=${WD}/data
+OUTPUT=${WD}/satsuma/new_assembly
+
+mkdir ${OUTPUT}
+
+/sw/apps/bioinfo/satsuma2/2016-12-07/rackham/bin/Chromosemble -q ${INPUT}/GCA_963457725.1_fSprSpr1.1_genomic.fna -t ${INPUT}/Ch_v2.0.2.fasta -o ${OUTPUT} -n 10
+~~~
+
+### Synteny 
+
+I generated a synteny plot based on the output of Satsuma.
+
+See code `synteny.R` and environment file `synteny.RData`. 
+
+This is the code to generate Plots in Supplementary Figure 7 A and C.
+
+D-GENIES plot Sup. Fig. 7 B was generated from D-Genies.

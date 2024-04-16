@@ -1,0 +1,16 @@
+F1
+F2
+F3
+F4
+F6
+Gavle100_Gavle_Baltic_Autumn
+Gavle54_Gavle_Baltic_Autumn
+Gavle98_Gavle_Baltic_Autumn
+BF16_HastKar_Baltic_Spring
+BF18_HastKar_Baltic_Spring
+BF19_HastKar_Baltic_Spring
+BF21_HastKar_Baltic_Spring
+BM14_HastKar_Baltic_Spring
+BM15_HastKar_Baltic_Spring
+BM16_HastKar_Baltic_Spring
+BM19_HastKar_Baltic_Spring
