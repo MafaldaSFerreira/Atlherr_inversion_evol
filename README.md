@@ -1,6 +1,6 @@
 # Evolution of Atlantic herring inversions
 
-Here I document the code used for analyses of short-read whole genome data to study the evolution of Atlantic herring inversions from [paper]. 
+Here I document the code used for analyses of short-read whole genome data to study the evolution of Atlantic herring inversions from [The origin and maintenance of supergenes contributing to ecological adaptation in Atlantic herring](https://doi.org/10.1101/2023.10.23.562618). 
 
 1. Genotype calling
 2. Mapping_sprat_assembly
