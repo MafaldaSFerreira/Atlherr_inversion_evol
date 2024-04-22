@@ -15,3 +15,4 @@ Here we document the code used for analyses of short-read whole genome data to s
     - iv. Recombination
     - v. SFS
 5. Transposable elements
+6. dNdS analysis
